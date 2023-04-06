@@ -1,4 +1,4 @@
-# _PS_parollax
+# parallax
 
 
 # `Building a Parallax Scrolling using HTML and CSS`
